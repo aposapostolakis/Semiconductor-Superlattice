@@ -1,0 +1,6 @@
+Miniband width of the first miniband: 19.02 meV
+Miniband width of the second miniband: 100.73 meV
+Miniband width of the third miniband: 214.96 meV
+First bandgap: 202.13 meV
+Second bandgap: 170.20 meV
+Length of a SL period: 8.24 nm

@@ -1,0 +1,11 @@
+1.064  % Conduction band height for alas (eV) 
+0      % Conduction band height for gaas (eV)
+-0.698 % Conduction band edge at InAs layer (eV)
+1      % barrier width of AlAs (nm)
+3.5    % well width of GaAs (nm)
+0.241  % well width of InAs (mm)
+
+
+
+
+
