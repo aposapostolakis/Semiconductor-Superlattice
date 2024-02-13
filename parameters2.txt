@@ -1,0 +1,13 @@
+0.409  % Conduction band height for alas (eV) 
+0      % Conduction band height for gaas (eV)
+2.5      % barrier width of AlAs (nm)
+10   % well width of GaAs (nm)
+
+
+
+
+
+
+
+
+
