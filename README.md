@@ -2,7 +2,7 @@
 Semiconductor Superlattice miniband-structure analysis
 
 
-This repository contains GNU Octave programs for analyzing semiconductor superlattice structures. The provided programs can calculate Bloch functions, energy miniband dispersion, and widths of minibands. Currently, the code calculates the widths of the first three minibands, but it can be easily extended to handle higher minibands.
+This repository contains GNU Octave programs for analyzing semiconductor superlattice structures. The provided programs can calculate Bloch functions, energy miniband dispersion, and widths of minibands. Currently, the code calculates the widths of the first three minibands, but it can be easily extended to handle higher minibands.The initial purpose of this project is to compare its findings with another method, which relies on the transfer matrix method in the Wannier function basis.
 
 **Methodology**:
 The method employed in this analysis involves discretizing the time-independent Schrödinger equation (TISE) into a matrix problem [1, 2]. This approach allows for efficient computation of the energy miniband dispersion and widths of minibands in semiconductor superlattice structures.
@@ -54,4 +54,6 @@ This command generates files related to energy dispersion and basic calculated p
 GNU Octave (This project was tested with GNU Octave (version 4.2.2) on Ubuntu 18.04.6 LTS.)
 
 Note: While the program was developed and tested using GNU Octave, it may also work with Matlab, as the initial development was done in a Matlab environment.
+
+
 
