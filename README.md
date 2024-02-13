@@ -17,9 +17,9 @@ Additionally, insights from the following works have been incorporated:
 
 **Directories**
 
-* GaAs-AlAs: Contains code for generating data figures and files for energy dispersions (dispersion_plot...png) and basic calculated parameters (miniband_properties_...png) for structures such as the studied [3,4]
+* GaAs-AlAs: Contains code for generating data figures and files for energy dispersions (dispersion_plot...png) and basic calculated parameters (miniband_properties_...png) for structures such as  studied in  [3,4]
 
-* GaAs-InAs-AlAs: Similarly, contains code for analyzing semiconductor superlattices.
+* GaAs-InAs-AlAs: Similarly, contains code for analyzing semiconductor superlattices for structures such as  studied in [5].
 
 References:
 
