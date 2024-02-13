@@ -56,4 +56,9 @@ GNU Octave (This project was tested with GNU Octave (version 4.2.2) on Ubuntu 18
 Note: While the program was developed and tested using GNU Octave, it may also work with Matlab, as the initial development was done in a Matlab environment.
 
 
+**Acknowledgements**
+ 
+ 🇪🇺  This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement no 101021857 (Odysseus).
+
+
 
